@@ -37,3 +37,11 @@ Visualization:	Matplotlib, Seaborn
 Deployment:	Flask (API), Docker
 
 ## OUTPUT
+
+![Image](https://github.com/user-attachments/assets/cd0fbd14-8888-43fc-aa91-ac9bc6d6fb11)
+
+
+![Image](https://github.com/user-attachments/assets/fcda7baa-c309-443a-b8f8-b478e6e96a0f)
+
+
+![Image](https://github.com/user-attachments/assets/c0855de8-99fd-46a0-a695-5c428b57806f)
